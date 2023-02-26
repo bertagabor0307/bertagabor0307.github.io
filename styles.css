@@ -1,0 +1,35 @@
+th {
+    width: 50%;
+    font-size: xx-large;
+    font-style: comic;
+    text-align: center;
+    border-bottom: 3px solid;
+    background-color: #a523236e;
+    color: white;
+  }
+
+table {
+    width: 100%;
+    margin-left:auto;margin-right;auto;
+  }
+
+  td {
+    width: 50%;
+    font-size: x-large;
+    font-style: arial;
+    text-align: justify;
+    border: 2px solid;
+    background-color: #28bdb5a4;
+    color: rgb(0, 0, 0)
+    
+  }
+
+  h1{
+    font-size: xx-large;
+    color: rgb(255, 0, 0);
+    text-align:center;
+  }
+
+html {
+    background-color: antiquewhite;
+}
